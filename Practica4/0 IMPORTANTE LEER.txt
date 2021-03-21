@@ -1,0 +1,2 @@
+Ejecutar los decodingSMC.py y SHA256.ps1 en la misma carpeta donde
+se guardaron para que funcionen correctamente.
